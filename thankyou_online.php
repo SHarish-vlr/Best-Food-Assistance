@@ -60,6 +60,6 @@ $insertOneResult = $online->insertOne(
     <script type="text/javascript">var city="<?php echo $session_city ?>"</script>
     <script type="text/javascript" src="scripts/index.js"></script>
     <script async defer 
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHH9Sg__rVACx-MZIiv4dhb6o7Fl1W-UA&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=" "&callback=initMap">
     </script>
 </html>    
