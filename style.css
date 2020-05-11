@@ -1,0 +1,44 @@
+.bg{
+    background-image: url(bg.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.white{
+    color: white;
+}
+.box {
+	background-color: transparent;
+	border: none;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+}
+html {
+    scroll-behavior: smooth;
+}
+.next-button{
+    background-color: black;
+    border: none;
+    padding: 5px 15px;
+    
+}
+.next{
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+}
+.sub {
+	color: white;
+	background-color: black;
+	border: none;
+	padding: 5px 15px;
+}
+.wel-name{
+    font-style: italic;
+    font-weight: bold;
+    color: coral;
+}
+.bold{
+     font-weight: bold;
+}
